@@ -1,0 +1,2 @@
+**Instructions for GitHub Copilot:**
+Before making any big changes to the project, always check the architecture documentation in `architecture.md` to ensure alignment with the overall design and goals.
